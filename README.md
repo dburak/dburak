@@ -10,7 +10,7 @@
   <a href="https://www.codewars.com/users/dburak/" target="_blank">
     <img src="https://www.codewars.com/users/dburak/badges/large">
   </a>
-  <p>Codewars Badge</p>
+  <p>My Codewars Badge</p>
 </div>
 
 
