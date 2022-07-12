@@ -17,7 +17,7 @@
   <a href="https://www.codewars.com/users/dburak/" target="_blank">
     <img src="https://www.codewars.com/users/dburak/badges/large">
   </a>
-  <p>My Codewars Badge</p>
+  <p>My Codewars Badge (JavaScript)</p>
 </div>
 <!---
 dburak/dburak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
