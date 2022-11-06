@@ -1,7 +1,3 @@
-<div align="center">
- <img src="https://user-images.githubusercontent.com/28096760/177014076-84248654-8a5a-459a-82f0-a5c9c5d52367.svg">
-</div>
-
 - 👋  Hi, My name is Burak and my motivation is making web pages alive !
  
  - 👀 I’m interested in Web Technologies and UI/UX Design.
