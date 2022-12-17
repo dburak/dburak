@@ -1,10 +1,10 @@
 - 👋  Hi, My name is Burak and my motivation is making web pages alive !
  
- - 👀 I’m interested in Web Technologies and UI/UX Design.
+ - 👀 I’m interested in Web and Cloud Technologies.
  
 - 🌱 I’m currently learning React.js
 
-- ☕️ I have experience in HTML, CSS(Sass), JavaScript, AngularJS, Angular and PHP.
+- ☕️ I have experience in CSS(Sass), JavaScript, Java, Google Cloud Run and AWS (EC2, VPC, IAM, S3).
 
 
 <!--- [![name](https://www.codewars.com/users/dburak/badges/large "Codewars Badge")](https://www.codewars.com/users/dburak/) --->
