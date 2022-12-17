@@ -2,8 +2,6 @@
  
  - 👀 I’m interested in Web and Cloud Technologies.
  
-- 🌱 I’m currently learning React.js
-
 - ☕️ I have experience in CSS(Sass), JavaScript, Java, Google Cloud Run and AWS (EC2, VPC, IAM, S3).
 
 
