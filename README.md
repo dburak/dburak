@@ -3,7 +3,7 @@
     <samp>My motivation is making web pages alive!</samp> <br/>
     <samp>I develop products on the web and like to tackle server-side, user interface problems with technical solutions.</samp> <br/>
     <samp>🚀 Currently working as a Software Engineer / Full Stack Developer.</samp> <br/>
-    <samp>⚡ Interested in the JavaScript & TypeScript tech stack.</samp>
+    <samp>⚡ Interested in the modern JavaScript ES6+ & TypeScript</samp>
 </div>
 
 ## 🛠️ Technologies I Like to Work With
