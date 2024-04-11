@@ -6,8 +6,7 @@
     <samp>⚡ Interested in the JavaScript & TypeScript tech stack.</samp>
 </div>
 
-## 🛠️ Technologies I Use
-<samp>- Frontend: React.js, Next.js, Redux, Sass, Tailwind CSS</samp> <br/>
-<samp>- Runtime Environment: Node.js</samp> <br/>
-<samp>- Backend: Express, NestJS</samp> <br/>
-<samp>- Databases: MongoDB, PostgreSQL</samp> <br/>
+## 🛠️ Technologies I Like to Work With
+<samp>- Frontend: React.js / Next.js, Redux Toolkit, React Query, CSS, Tailwind CSS, UI Libraries (Shadcn, Mantine, etc.)</samp> <br/>
+<samp>- Backend: Node.js, Express, NestJS</samp> <br/>
+<samp>- Databases: MongoDB, PostgreSQL</samp>
