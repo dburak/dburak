@@ -6,7 +6,7 @@
     <samp>⚡ Interested in the modern JavaScript ES6+ & TypeScript</samp>
 </div>
 
-## 🛠️ Technologies I Like to Work With
+#### 🛠️ Technologies I Like to Work With
 <samp>- Frontend: React.js / Next.js, Redux Toolkit, React Query, CSS, Tailwind CSS, UI Libraries (Shadcn, Mantine, etc.)</samp> <br/>
 <samp>- Backend: Node.js, Express, NestJS</samp> <br/>
 <samp>- Databases: MongoDB, PostgreSQL</samp>
